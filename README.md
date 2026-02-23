@@ -30,7 +30,7 @@ This repository accompanies our research work on explainable AI-driven partner d
 - Evaluation scripts and baseline comparisons
 - Reproducible experimental setup
 
-## Intended Use
+## Intention
 
 IES is intended for:
 - Research on explainable retrieval-augmented generation

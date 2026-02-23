@@ -41,3 +41,9 @@ IES is intended for:
 ## License
 
 See the [LICENSE](./LICENSE) file for details.
+
+
+## Usage
+1. In the config folder edit the German or United Kindom configuration file. change the paths to your needs.
+2. Edit [`scripts/qdrant_start.sh`](./scripts/qdrant_start.sh) and use it to start the Qdrant vector store
+3. start the `rest.py` file, the API will be available at `localhost:5000`
